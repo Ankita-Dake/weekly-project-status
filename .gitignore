@@ -1,3 +1,4 @@
 wenv/
 .env
 __pycache__
+.idea
